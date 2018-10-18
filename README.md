@@ -7,10 +7,10 @@ Every folder at top-level is a meeting and is named for the meeting.
 
 Every meeting folder contains the following:
 * Markdown file formatted with a markdown header.
-	* slides: \<link to slides hosted on Google Docs\>
 	* title: 
+	* slides: \<link to slides hosted on Google Docs\>
 	* link-to-assets-in-github: 
-	* list-of-topics: [example1, example2, example3, example3]
+	* list-of-topics: [printf vulnerability, heap spraying, example3, example3]
 	* This file, once completed, is copied to the website. (send it to
 	website admin, currently @Flyrom / Trevor)
 
