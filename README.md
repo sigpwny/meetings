@@ -43,5 +43,7 @@ They'll have **additional** components depending on the meeting type.
 
 ### Jekyll Details (don't read unless you're website admin)
 
-* New packaged meetings go into \_posts dir
-* Use `layout: meeting`
+* New packaged meetings go into \_meetings dir, copy `EXAMPLE.md` and set
+front matter appropriately
+* meetings are a jekyll "[collection](https://jekyllrb.com/docs/collections/)"
+* Use `layout: meeting`. Meetings use a [jekyll layout](https://jekyllrb.com/docs/layouts/).
