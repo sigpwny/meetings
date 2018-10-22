@@ -9,7 +9,11 @@ locally.
 
 ---
 
-**Please download this template (TODO: link it (dm me to do it (github is down right now ok))) and fill it out. Explanation of the fields below.** 
+**Please download [this
+template](https://raw.githubusercontent.com/sigpwny/sigpwny.github.io/master/_meetings/EXAMPLE.md)
+and fill it out. Explanation of the fields below. It will eventually look
+like [this example currently live on the
+website](https://sigpwny.github.io/meetings/intro-mtg).** 
 ```
 ---
 date:   2016-09-10 11:12:08
