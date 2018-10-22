@@ -3,6 +3,10 @@ All meetings have 15m presentations, followed by an activity. We want to
 wrap these up in a packaged format so we can publish them, get cred for the
 club, and reuse them in future years.
 
+Your task is to copy a template and fill it with content, then send it to
+the website admin. You can also preview how it'll look on the website
+locally.
+
 ---
 
 **Please download this template (TODO: link it (dm me to do it (github is down right now ok))) and fill it out. Explanation of the fields below.** 
@@ -48,6 +52,14 @@ AKA "how to run this meeting again in the future."
 		* Most importantly, offer instructions 
 * Once you complete this file, send it to the
 	website admin, currently @Flyrom / Trevor.
+
+#### (Optional) See the fruits of your labor (preview the thing you're creating)
+* Install Jekyll (& ruby)
+* `git clone github.com/sigpwny/sigpwny.github.io`
+* `cd sigpwny.github.io`
+* Move your markdown file into `_meetings`
+* `jekyll serve`
+* open localhost:4000 in your web browser
 
 ---
 
