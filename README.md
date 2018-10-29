@@ -52,8 +52,7 @@ You have [full markdown formatting](https://github.com/adam-p/markdown-here/wiki
 		* Add the files needed for this meeting. Try to avoid stuff in
 		excess of 10mb (host it elsewhere).
 	* **goal**: Goal of the meeting, as concisely as possible.
-	* **deploy-instructions**: leave `""` if there are none. Should be most
-	relevant for pwn.
+	* **how-to-run**: leave `""` if there are none. Try to clearly and concisely summarize what needs to be done to run this meeting. Usually going to be "presenter runs through the slides and solves the exercise themselves."
 	* **list-of-topics**: Summarize the slides into the major bullet points.
 	Try to keep it to three. Everything in the list must be quoted.
 	* **Content Section**:
