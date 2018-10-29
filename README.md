@@ -16,14 +16,18 @@ like [this example currently live on the
 website](https://sigpwny.github.io/meetings/intro-mtg).** 
 ```
 ---
-date:   2016-09-10 11:12:08
+date:   2018-10-21 21:15:00 -0500
 layout: meeting
-published: false
+published: true
 title:  "Example"
 slides: link-to-google-docs
 link-to-assets-in-github: ""
 goal: "Demonstrate an example."
-deploy-instructions: ""
+how-to-run: [
+	"As concisely as possible, how to run this meeting.",
+	"If you're unsure, ask Ian and/or the person who ran it.",
+	"Don't forget to drop a comma after each line.",
+]
 list-of-topics: [
 	"reversing",
 	"pwn"
@@ -34,6 +38,8 @@ list-of-topics: [
 
 Description goes here! Any additional information.
 AKA "how to run this meeting again in the future."
+
+You have [full markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) here, please use it!
 ```
 
 * Markdown file formatted with a markdown header.
